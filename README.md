@@ -10,3 +10,5 @@ containing the specified file. There are 3 ways to use it -
 
 This option is not available for files in working set, as when you click them, they are made current document
 and then other two options can be used.
+
+Also, while the folder containing file is opened, the file itself is not selected by default [TODO].
